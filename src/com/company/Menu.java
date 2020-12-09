@@ -4,7 +4,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Menu {
-    public void Menu() {
+    public void MenuU() {
 
         //THIS is the menu class that states all the items and their associated price
 
