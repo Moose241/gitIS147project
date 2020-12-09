@@ -14,7 +14,7 @@ public class Main {
 
         //Menu with the options and prices should come after intro
         com.company.Menu menuOBJECT = new com.company.Menu();
-        menuOBJECT.Menu();
+        menuOBJECT.MenuU();
 
 
         //AI correct menu check, system would ask you if what you ordered is the choice you want essentially
